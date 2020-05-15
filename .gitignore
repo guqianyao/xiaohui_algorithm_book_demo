@@ -261,6 +261,7 @@ typings/
 build
 /files
 */tmp/**.html
+.idea/**
 
 /log
-/package-lock.json
+/.idea/
